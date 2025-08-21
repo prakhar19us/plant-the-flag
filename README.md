@@ -18,7 +18,10 @@ Click the country prompted, earn points, and see how many you can get right on t
    - ✅ 1st try → 🎉 Great!  
    - ✅ 2nd try → 👏 Nice!  
    - ✅ 3rd try → 😅 Phew!  
-   - ❌ Wrong → You’ll see the country name.  
+   - ❌ Wrong → You’ll see the country name.
+   
+## 📜 License
+MIT License. Free to use, share, and modify.
 
 ## 🛠️ Development
 Clone the repository and open `index.html` in your browser:
@@ -29,6 +32,3 @@ cd plant-the-flag
 start index.html   # Windows
 # or
 open index.html    # macOS
-## 📜 License
-MIT License. Free to use, share, and modify.
-
