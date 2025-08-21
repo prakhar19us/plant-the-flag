@@ -21,9 +21,12 @@ Click the country prompted, earn points, and see how many you can get right on t
    - ❌ Wrong → You’ll see the country name.  
 
 ## 🛠️ Development
-Clone the repository and open `plant_the_flag.html` in your browser:
+Clone the repository and open `index.html` in your browser:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/plant-the-flag.git
 cd plant-the-flag
-open plant_the_flag.html   # or double-click the file
+start index.html   # Windows
+# or
+open index.html    # macOS
+
