@@ -29,4 +29,6 @@ cd plant-the-flag
 start index.html   # Windows
 # or
 open index.html    # macOS
+## 📜 License
+MIT License. Free to use, share, and modify.
 
